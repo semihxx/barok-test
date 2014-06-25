@@ -249,7 +249,7 @@ a.p-link-home i,a.p-link-back i { /* text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.44
 visibility: visible; opacity: 1; 
 background-image: linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.65098) 100%); text-align: center;
 background-position: initial initial; background-repeat: initial initial; }
-.b-c-textpane { position:absolute; bottom:20px; width:100%; padding:0px; padding: 0px 20px;  }
+.b-c-textpane { position:absolute; bottom:80px; width:100%; padding:0px; padding: 0px 20px;  }
 .bannerContent h1 { color: #FFF; font-size: 50px; margin-top: 0px; }
 .bannerContent p { font-size: 16px; }
 
